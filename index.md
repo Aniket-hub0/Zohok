@@ -1,2 +1,2 @@
 # Welcome to index.md
-[About us](Aboutus.md)
+[About us](About.md)
