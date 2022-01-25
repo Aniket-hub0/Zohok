@@ -30,7 +30,7 @@ github_username:  aniket-hub123
 
 # Build settings
 
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   
