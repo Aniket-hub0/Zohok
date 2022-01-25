@@ -26,6 +26,11 @@ url: "https://aniket-hub0.github.io" # the base hostname & protocol for your sit
 twitter_username: aniket@twitter
 github_username:  aniket-hub123
 
+author: Aniket Sahoo
+
+copyright: "SIIC"
+logo_title: /images/Slide2.JPG
+
 # Build settings
 
 # theme: minima
