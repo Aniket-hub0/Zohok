@@ -448,7 +448,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #3a38c4;
 }
 
 .timeline>li {
@@ -496,7 +496,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #003481;
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -641,7 +641,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid rgba(255, 255, 255, 0);;
 }
 
 .team-member h4 {
@@ -659,8 +659,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-color: rgba(0, 0, 0, 0.123);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -755,8 +754,8 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    color: #fff;
-    background-color: #222;
+    color: rgb(255, 255, 255);
+    background-color: #000;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -765,7 +764,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};;
 }
 
 .btn:focus,
