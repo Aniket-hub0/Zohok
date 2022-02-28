@@ -659,13 +659,13 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: rgba(0, 0, 0, 0.123);
+    background-color: rgba(255, 255, 255, 0);
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: rgba(255, 255, 255, 0);
 }
 
 section#contact .form-group {
