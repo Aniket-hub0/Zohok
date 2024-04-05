@@ -33,6 +33,14 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/aniket-sahoo-30b66b193/
 
+- name: Aniket Sahoo
+  pic: 3
+  position: Junior Research Associate
+  about: Holds a B.tech in Mechatronics from SRM institute of science and technology. Has worked as inturn in “BrainwaveS” since before its incorporation and is now a full-time employee. Has skills in fields like embedded systems, VR, game development, system integration, sensor fusion and web development. Worked on various projects on topics like robotics, automation, waste management and soft actuators. Passionate about solving problems using new technologies. Holds interests in robotics, aquariums and video games.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/aniket-sahoo-30b66b193/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
