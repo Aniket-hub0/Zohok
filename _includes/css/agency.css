@@ -596,12 +596,12 @@ section h3.section-subheading {
     .timeline>li .timeline-image {
         width: 100px;
         height: 100px;
-        margin-left: -75px;
+        margin-left: -50px;
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 30px;
-        font-size: 18px;
+        margin-top: 10px;
+        font-size: 15px;
         line-height: 26px;
     }
 
@@ -616,17 +616,17 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 20px 20px 50px;
     }
 
     .timeline>li .timeline-image {
         width: 100px;
         height: 100px;
-        margin-left: -85px;
+        margin-left: -50px;
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 40px;
+        margin-top: 10px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
