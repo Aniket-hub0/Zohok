@@ -12,7 +12,7 @@ people:
 - name: Dr. Bhasi Sukumaran 
   pic: 1
   position: Founder
-  about: Holds a PhD in Clinical Psychology (specialty-Neuropsychology) and an MPhil in Clinical Psychology, both from NIMHANS. Has over 25 years of experience. Currently Professor & Head, Dept of Clinical Psychology, at SRM Medical College Hospital and Research Centre Consultant Clinical Neuropsychologist, SIMS Hospitals, Vadapalani, Chennai. Research interests in Neurocognitive remediation involving Brain computer and Virtual Reality. Is an omnivorous reader and an avid nature/wildlife/animal enthusiast who loves trekking and motorcycle touring
+  about: PhD and MPhil in Clinical Psychology with 25+ years' experience, now Professor & Head at SRM Medical College, specializing in Neurocognitive remediation via Brain-Computer Interfaces and Virtual Reality.
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dr-bhasi-sukumaran-ab33999/
@@ -20,7 +20,7 @@ people:
 - name: Mr. Sreeram. R 
   pic: 2
   position: Chief Technology Officer
-  about:  Holds an M.Tech in Cybersecurity Systems and Networks. Currently Infrastructure Engineer at Ecorp SaS. Is an expert at network security protocols and infrastructure specialist in delivering cost-effective solutions. First startup gig at 22, a decade of experience with early stage startups. Has held cross-functional roles in 3 different startups. ○ Big Data & Cybersecurity (Government of India) ○ Fintech (European) o Privacy-enabled smartphones (European). Is a self professed technophile, footballer, and a foodie
+  about: M.Tech in Cybersecurity, Infrastructure Engineer at Ecorp SaS, with a decade of startup experience spanning Big Data, Fintech, and privacy-enabled smartphones in India and Europe.
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sreeramr86/
@@ -28,7 +28,7 @@ people:
 - name: Aniket Sahoo
   pic: 3
   position: Junior Research Associate
-  about: Holds a B.tech in Mechatronics from SRM institute of science and technology. Has worked as inturn in “BrainwaveS” since before its incorporation and is now a full-time employee. Has skills in fields like embedded systems, VR, game development, system integration, sensor fusion and web development. Worked on various projects on topics like robotics, automation, waste management and soft actuators. Passionate about solving problems using new technologies. Holds interests in robotics, aquariums and video games.
+  about: B.Tech in Mechatronics from SRM, now at BrainwaveS with expertise in embedded systems, VR, game development, system integration, sensor fusion, and web development.
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/aniket-sahoo-30b66b193/
@@ -36,10 +36,67 @@ people:
 - name: Venkatesan R
   pic: 4
   position: Junior Research Associate
-  about: Holds a masters in medical electronics. Strong understanding of medical equipment and technology and a passion for improving healtcare through innovative solutions. Has worked on biomedical calibration and in manufacturing dept. Skills in field like embedded system, iot platform, medical image and signal processing. 
+  about: M.Tech in Medical Electronics with expertise in medical equipment, calibration, and manufacturing. Skilled in embedded systems, IoT platforms, and medical image and signal processing.
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/venkatesan-ramasamy-941851219/
+
+- name: Dr. R.Senthilnathan
+  pic: 5
+  position: Consultant
+  about: Professor at Department of Mechatronics Engineering, SRMIST. Has interests in Computer Vision (Scene Reconstruction), Robotics, Mechatronics and Immersive Technologies.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/senthil-nathan-b7240673/
+
+- name: Dr. Nijisha Shajil
+  pic: 6
+  position: Consultant
+  about: Assistant Professor at Department of Biomedical Engineering, SRMIST. Has interests in Brain-Computer Interface, Deep learning, Biosignal and medical image processing and Medical device development.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/dr-nijisha-shajil-9a587380/
+
+- name: Dr. P.A.Sridhar
+  pic: 7
+  position: Consultant
+  about: PhD in Electronics and Biomedical. Has research interests in Neuromuscular signal processing and analysis and Biomedical instrumentation.
+  social: 
+    - title: globe
+      url: https://www.srmist.edu.in/faculty/dr-p-a-sridhar/
+
+- name: Dr. Suresh.J 
+  pic: 8
+  position: Consultants
+  about: Holds a Ph.D. in Physiotherapy and is a Assistant Professor, SRM College with a 9+ years of experience. Has interest in the research area of Neuro Physiotherapy.
+  social: 
+    - title: globe
+      url: https://www.srmist.edu.in/faculty/suresh-j/
+
+- name: Dr. Ignatius Jacob Emmanuel
+  pic: 9
+  position: Consultants
+  about: Has been an Assistant Professor at SRM Medical College Hospital and Research Centre, MBBS, Dip in PMR. Has intrest in the research area of Rehabilitation.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/ignatiusjacob/
+
+- name: Dr. Shantanu Patil 
+  pic: 10
+  position: Advisor
+  about: Head of Translational Research and Medicine at SRM Medical College, Associate Director of SRM Incubation and Entrepreneurship Center as well as Head, Innovation and Design Center.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/shantanu-patil-2355122/
+
+- name: Dr. G.S.Bhuvaneshwar
+  pic: 12
+  position: Advisor
+  about: Has been actively involved in the testing of medical devices. Provides Advisory services for Medical Device quality management systems, product development life-cycle management.
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/g-s-bhuvaneshwar-84518052/ 
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

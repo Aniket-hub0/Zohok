@@ -601,7 +601,7 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image h4 {
         margin-top: 10px;
-        font-size: 15px;
+        font-size: 15       px;
         line-height: 26px;
     }
 
@@ -635,7 +635,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     text-align: center;
 }
 
@@ -870,6 +870,7 @@ body {
 .about-img{
     height: 50%;
     width: 50%;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     border: 10px solid #{{ site.data.template.color.primary }};
